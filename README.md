@@ -1,6 +1,6 @@
 # Julia Workshop - HPC.NRW
 
-<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/master/orga/poster/JuliaNRWSS21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaNRWSS21/raw/master/orga/poster/JuliaNRWSS21_poster.png" width=200px></a>
+<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.png" width=200px></a>
 
 An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in March 2021 (1st - 4th).
 
@@ -36,8 +36,8 @@ To get the most out of the workshop, make yourself familiar with the basic Julia
 
 ## Tentative schedule
 
-<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/master/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRWSS21/raw/master/orga/schedule/schedule.jpeg" width=720px></a>
+<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.jpeg" width=720px></a>
 
 ## Try it out live! (Beta)
 
-Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaNRWSS21-binder/master?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fcrstnbr%252FJuliaNRWSS21%26urlpath%3Dtree%252FJuliaNRWSS21%252F%26branch%3Dmaster) badge to dive right into the workshop materials.
+Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/crstnbr/JuliaNRWSS21-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fcrstnbr%252FJuliaNRWSS21%26urlpath%3Dtree%252FJuliaNRWSS21%252F%26branch%3Dmain) badge to dive right into the workshop materials.
