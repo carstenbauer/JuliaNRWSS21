@@ -4,8 +4,6 @@
 
 An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in July 2021 (22nd - 24th).
 
-In case of questions, feel free to [contact me](http://github.com/crstnbr).
-
 ## Preparing for the workshop
 
 ### Software and workshop materials
@@ -36,7 +34,7 @@ To get the most out of the workshop, make yourself familiar with the basic Julia
 
 ## Tentative schedule
 
-<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.jpeg" width=720px></a>
+<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.png" width=720px></a>
 
 ## Try it out live! (Beta)
 
