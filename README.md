@@ -36,7 +36,7 @@ To get the most out of the workshop, make yourself familiar with the basic Julia
 
 ## Tentative schedule
 
-<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.jpeg" width=720px></a>
+<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.pdf"><img src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/schedule/schedule.png" width=720px></a>
 
 ## Try it out live! (Beta)
 
