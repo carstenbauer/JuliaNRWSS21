@@ -1,4 +1,4 @@
-# Julia Workshop - HPC.NRW
+# Julia Workshop - HPC.NRW - Summer 21
 
 <a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.png" width=200px></a>
 
