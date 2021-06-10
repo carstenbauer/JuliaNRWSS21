@@ -1,6 +1,6 @@
 # Julia Workshop - HPC.NRW - Summer 21
-
-<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.png" width=200px></a>
+<!-- 
+<a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.png" width=200px></a> -->
 
 An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in July 2021 (22nd - 24th).
 
