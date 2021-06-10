@@ -11,7 +11,7 @@ In case of questions, feel free to [contact me](http://github.com/crstnbr).
 ### Software and workshop materials
 
 What you need (in short):
-  * [Julia 1.5](https://julialang.org/downloads/)
+  * [Julia 1.6](https://julialang.org/downloads/)
   * [Jupyter](https://jupyter.org) + [IJulia.jl](https://github.com/JuliaLang/IJulia.jl)
   * The workshop materials, i.e. this GitHub repository
 
@@ -26,9 +26,9 @@ cd JuliaNRWSS21
 julia install.jl
 ```
 
-If you are facing any issues you can check out [this troubleshooting section](https://crstnbr.github.io/WorkshopWizard.jl/dev/troubleshooting/). Otherwise I will try to help you get ready for the workshop on Monday!
+If you are facing any issues you can check out [this troubleshooting section](https://crstnbr.github.io/WorkshopWizard.jl/dev/troubleshooting/).
 
-**Note:** I might still change some of the workshop materials before Monday. To be on the safe side, make sure you update your local instance of the repository on Monday. (You can always delete your local copy and redownload/`git pull`.)
+**Note:** I might still change some of the workshop materials before Monday the 21st. To be on the safe side, make sure you update your local instance of the repository on Monday. (You can always delete your local copy and redownload/`git pull`.)
 
 ### Julia syntax
 
