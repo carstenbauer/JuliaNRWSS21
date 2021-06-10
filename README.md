@@ -2,7 +2,7 @@
 
 <a href="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.pdf"><img align="right" src="https://github.com/crstnbr/JuliaNRWSS21/raw/main/orga/poster/JuliaNRWSS21_poster.png" width=200px></a>
 
-An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in March 2021 (1st - 4th).
+An online Julia workshop for the [HPC.NRW Kompetenznetwerk](https://hpc.dh.nrw) which takes place in July 2021 (22nd - 24th).
 
 In case of questions, feel free to [contact me](http://github.com/crstnbr).
 
@@ -16,7 +16,7 @@ What you need (in short):
   * The workshop materials, i.e. this GitHub repository
 
 #### How to get everything
-The workshop uses the latest **Julia version 1.5**. Go to [julialang.org](https://julialang.org/downloads/) and install the appropriate binaries for your operating system.
+The workshop uses the latest **Julia version 1.6**. Go to [julialang.org](https://julialang.org/downloads/) and install the appropriate binaries for your operating system.
 
 Apart from Julia itself, you will need a [Jupyter](https://jupyter.org) notebook installation and a bunch of Julia packages (dependencies). The simplest way to install everything is to use the [WorkshopWizard](https://crstnbr.github.io/WorkshopWizard.jl/dev/). Just follow the [usage instructions](https://crstnbr.github.io/WorkshopWizard.jl/dev/usage/#Getting-the-latest-workshop-1). Alternatively, you can use the following terminal commands (you need to have `git` and `julia` available):
 
